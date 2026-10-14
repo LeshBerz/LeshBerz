@@ -6,7 +6,7 @@ on:
     - cron: "0 3 * * *" # daily, 06:00 MSK
   workflow_dispatch:
   push:
-    branches: [main, readme-redesign] # TODO: drop readme-redesign before merging into main
+    branches: [main]
 
 permissions:
   contents: write
