@@ -46,7 +46,7 @@
       <sub><samp>соло</samp></sub><br />
       <b><a href="https://github.com/LeshBerz/crypto-price-tracker">Crypto Price Tracker</a></b><br />
       Цены криптовалют из CoinMarketCap: фоновая синхронизация, история в SQLite, REST API и веб-клиент со свечными графиками.<br />
-      <sub>Роль: автор — API и веб-клиент</sub><br /><br />
+      <sub>Роль: fullstack</sub><br /><br />
       <img src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=2dd4bf" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Express-1f2937?style=flat-square&logo=express&logoColor=2dd4bf" alt="Express" />
       <img src="https://img.shields.io/badge/SQLite-1f2937?style=flat-square&logo=sqlite&logoColor=2dd4bf" alt="SQLite" />
@@ -58,7 +58,7 @@
       <sub><samp>соло</samp></sub><br />
       <b><a href="https://github.com/LeshBerz/greenline">Greenline</a></b><br />
       Веб-чат поверх GREEN-API: отправка и получение сообщений, статусы доставки, повтор неотправленного.<br />
-      <sub>Роль: автор, frontend</sub><br /><br />
+      <sub>Роль: frontend</sub><br /><br />
       <img src="https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=2dd4bf" alt="React" />
       <img src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=2dd4bf" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Zustand-1f2937?style=flat-square" alt="Zustand" />
@@ -127,6 +127,15 @@
 | Языки | TypeScript, JavaScript, Python, C++, Go, Rust |
 | Аналитика и менеджмент | Miro, PlantUML, LaTeX, OpenAPI, Claude Code |
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/skills-board-dark.svg" />
+    <img width="100%" src="assets/skills-board-light.svg" alt="Граф навыков в виде печатной платы: технологии из трёх и более проектов и проекты, где они встречаются" />
+  </picture>
+  <br />
+  <sub>Технологии, которые встречаются в трёх и более проектах (чипы), и проекты, где они использованы (площадки)</sub>
+</p>
+
 ## <samp>04 /</samp> Статистика
 
 <p align="center">
@@ -137,6 +146,20 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeshBerz&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2dd4bf&text_color=e8eaed&locale=ru" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeshBerz&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0d9488&text_color=0f1419&locale=ru" alt="Языки в репозиториях" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeshBerz/LeshBerz/output/activity-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/LeshBerz/LeshBerz/output/activity-light.svg" alt="Активность на GitHub за последние 31 день" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeshBerz/LeshBerz/output/snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/LeshBerz/LeshBerz/output/snake-light.svg" alt="Змейка, съедающая график контрибуций" />
   </picture>
 </p>
 
